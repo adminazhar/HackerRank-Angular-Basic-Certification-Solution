@@ -1,0 +1,23 @@
+<div class="layout-column align-items-center mt-50">
+  <section class="layout-row align-items-center justify-content-between">
+    <label>Celsius: </label>
+    <input
+      type="number"
+      class="large"
+      data-test-id="celsius-input"
+      [(ngModel)]="c"
+      (ngModelChange)="onChange($event, 'c')"
+    />
+  </section>
+
+  <section class="layout-row align-items-center justify-content-between">
+    <label>Fahrenheit: </label>
+    <input
+      type="number"
+      class="large"
+      data-test-id="fahrenheit-input"
+      [(ngModel)]="f"
+      (ngModelChange)="onChange($event, 'f')"
+    />
+  </section>
+</div>
