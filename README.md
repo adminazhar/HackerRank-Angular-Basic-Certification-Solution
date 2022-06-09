@@ -9,9 +9,14 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/d7de6c3
 
 2 Questions are asked,, provided the solution also:
 ## Programs 
-- [Angular: Weather Details](weather-details)
+- [Angular: Weather Component/Details](weather-component)
 - [Angular: Temperature Converter](temperature-converter)
 
+## How to Use
+- Open HackerRank Test
+- Select Question
+- Copy the `{Program}/src/app/{Program}/file.component.html` and `{Program}/src/app/{Program}/file.component.ts`
+- Paste into the same directory in HackerRank website, only 2 files should be replaced mentioned in above line.
 ## Follow me
 
 <a href="https://www.linkedin.com/in/azhark/">
