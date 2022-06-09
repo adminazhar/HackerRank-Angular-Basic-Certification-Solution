@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 78.0.3904 (Linux 0.0.0)" package="unit" timestamp="2022-06-08T17:17:02" id="0" hostname="workspace9g7an4ixrpnfe8c7.ws-7d9ff8b44d-dcjjt" tests="4" errors="0" failures="0" time="0.151">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.108 Safari/537.36"/>
+  </properties>
+  <testcase name="WeatherDetails Initial UI is rendered as expected" time="0.096" classname=".WeatherDetails"/>
+  <testcase name="WeatherDetails Test with existing cities in both upper and small case" time="0.022" classname=".WeatherDetails"/>
+  <testcase name="WeatherDetails Test with non-existing cities" time="0.017" classname=".WeatherDetails"/>
+  <testcase name="WeatherDetails Perform series of actions" time="0.016" classname=".WeatherDetails"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
